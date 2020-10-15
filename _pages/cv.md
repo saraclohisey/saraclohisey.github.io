@@ -28,7 +28,7 @@ Employment and Education
 
 * BA Mod Natural Science (Biochemistry with Cell Biology)  
   First Class Hons  
-  Trinity College Dublin              
+  Trinity College Dublin </br>          
   2005-2009
 
   
