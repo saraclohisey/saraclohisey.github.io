@@ -9,25 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Employment and Education
 ======
 
-CHECK CHECK
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Senior Postdoctoral Research Fellow (Core Scientist), 
+  Baillie Lab, The Roslin Institute, University of Edinburgh
+  Nov 2017- Present
+  Check out the [lab profile](https://baillielab.net/people/)!
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Research Fellow,
+  Baillie Lab, The Roslin Institute, University of Edinburgh
+  Apr 2014- Oct 2017
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* PhD University of Edinburgh
+  Ohkura Lab, The Wellcome Trust Centre for Cell Biology, University of Edinburgh.
+  [Thesis](https://era.ed.ac.uk/handle/1842/8989?show=full) - KANK: a novel EB1 interactor and Drosophila orthologue of a conserved tumour suppressor 
+  2009-2013
+
+* BA Mod Natural Science (Biochemistry with Cell Biology)
+  First Class Hons 
+  Trinity College Dublin            
+  2005-2009
+
   
 Skills
 ======
