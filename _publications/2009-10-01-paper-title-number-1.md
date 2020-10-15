@@ -5,7 +5,7 @@ permalink: 10.1101/2020.09.24.20200048v2
 date: 2020-10-10
 venue: 'medRxiv'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2020.09.24.20200048v2.full.pdf'
-citation: 'Pairo-Castineira et al., (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
 ---
 The subset of patients who develop critical illness in Covid-19 have extensive inflammation affecting the lungs and are strikingly different from other patients: immunosuppressive therapy benefits critically-ill patients, but may harm some non-critical cases.
 Since susceptibility to life-threatening infections and immune-mediated diseases are both strongly heritable traits, we reasoned that host genetic variation may identify mechanistic
