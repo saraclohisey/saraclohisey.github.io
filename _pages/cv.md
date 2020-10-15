@@ -42,18 +42,18 @@ Key Skills
 * Administration and Project Management: Comprehensive experience with management of lab paperwork, organisation and coordination of large multi-lab projects.
 * Teaching: Supervision of undergraduate students during lab projects and dissertation writing, supervision of PhD students, Biology and Chemistry Tutor for high school students.
 
-Publications
+Key Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Knowledge exchange
 ======
-* Currently signed in to 43 different slack teams
+* Appeared in a radio interview on BBC Scotland to discuss the GenOMICC influenza project. This interview was accompanied by coverage of the project in major national newspapers including The Scotsman and The Times.
+* Met with sepsis survivors and charity board members in collaboration with FEAT Sepsis Research to discuss GenOMICC. This included giving tours of the labs at Roslin and presenting lab experiments to volunteers and survivors in layman’s terms to give them an understanding of the importance of genomics in medicine.
+* Social media management for GenOMICC. The Twitter account engages with individual team members at sites and also with participants in the study to communicate news, milestones and offer assistance. 
+* Microbiology Society Champion (2018-Present) boosting the image of the society locally at the Roslin Institute, brainstorming public engagement activities and attending conferences on behalf of the society.
+* Presenter at outreach events such as the Edinburgh International Science Festival 2018 and 2016, and the Royal Society Summer of Science Exhibition 2016 as part of the Flu Fighters exhibit. 
+
