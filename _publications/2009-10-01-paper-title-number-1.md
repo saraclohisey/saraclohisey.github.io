@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Genetic mechanisms of critical illness in Covid-19."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 10.1101/2020.09.24.20200048v2
+date: 2020
+venue: 'medRxiv'
+paperurl: 'https://www.medrxiv.org/content/10.1101/2020.09.24.20200048v2.full.pdf'
+citation: 'Pairo-Castineira et al., (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The subset of patients who develop critical illness in Covid-19 have extensive inflammation affecting the lungs and are strikingly different from other patients: immunosuppressive therapy benefits critically-ill patients, but may harm some non-critical cases.
+Since susceptibility to life-threatening infections and immune-mediated diseases are both strongly heritable traits, we reasoned that host genetic variation may identify mechanistic
+targets for therapeutic development in Covid-19.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://www.medrxiv.org/content/10.1101/2020.09.24.20200048v2.full.pdf)
