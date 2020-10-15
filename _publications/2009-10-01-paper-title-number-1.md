@@ -2,7 +2,7 @@
 title: "Genetic mechanisms of critical illness in Covid-19."
 collection: publications
 permalink: 10.1101/2020.09.24.20200048v2
-date: 2020
+date: 2020-10-10
 venue: 'medRxiv'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2020.09.24.20200048v2.full.pdf'
 citation: 'Pairo-Castineira et al., (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
