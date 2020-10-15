@@ -12,34 +12,35 @@ redirect_from:
 Employment and Education
 ======
 
-* Senior Postdoctoral Research Fellow (Core Scientist), 
+* Senior Postdoctoral Research Fellow (Core Scientist),  
   Baillie Lab, The Roslin Institute, University of Edinburgh  
   Nov 2017- Present  
   Check out the [lab profile](https://baillielab.net/people/)!
 
-* Postdoctoral Research Fellow,
+* Postdoctoral Research Fellow,  
   Baillie Lab, The Roslin Institute, University of Edinburgh  
   Apr 2014- Oct 2017
 
-* PhD University of Edinburgh  
+* PhD University of Edinburgh    
   Ohkura Lab, The Wellcome Trust Centre for Cell Biology, University of Edinburgh  
   [Thesis](https://era.ed.ac.uk/handle/1842/8989?show=full) - KANK: a novel EB1 interactor and Drosophila orthologue of a conserved tumour suppressor   
   2009-2013
 
 * BA Mod Natural Science (Biochemistry with Cell Biology)  
   First Class Hons  
-  Trinity College Dublin </br>          
+  Trinity College Dublin         
   2005-2009
 
   
-Skills
+Key Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bioinformatics: Python, R, Experience with cleaning and processing large datasets including RNA-Seq and CAGE.
+* Primary cell culture -Human: Isolation of primary human monocytes and subsequent differentiation to human monocyte-derived macrophages.
+* Primary cell culture -Mouse: Isolation of bone marrow and subsequent differentiation to mouse bone marrow-derived macrophages, Isolation of Murine Embryonic Fibroblasts (MEF).
+* Science communication: Continued involvement in on-site public engagement activities.
+* Presentation skills: Regular presentations to colleagues, lab and institute wide. 
+* Administration and Project Management: Comprehensive experience with management of lab paperwork, organisation and coordination of large multi-lab projects.
+* Teaching: Supervision of undergraduate students during lab projects and dissertation writing, supervision of PhD students, Biology and Chemistry Tutor for high school students.
 
 Publications
 ======
@@ -51,12 +52,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
