@@ -1,7 +1,7 @@
 ---
 title: "Genetic mechanisms of critical illness in Covid-19."
 collection: publications
-permalink: 10.1101/2020.09.24.20200048v2
+permalink: https://www.medrxiv.org/content/10.1101/2020.09.24.20200048v2
 date: 2020-10-10
 venue: 'medRxiv'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2020.09.24.20200048v2.full.pdf'
