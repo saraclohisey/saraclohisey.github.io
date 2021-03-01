@@ -1,17 +1,12 @@
 ---
 title: "Hybrid Gene Origination Creates Human-Virus Chimeric Proteins during Infection."
 collection: publications
-<<<<<<< Updated upstream
-permalink: https://doi.org/10.1038/s41598-020-79033-3
-date: 2020-12-18
-venue: 'Scientific Reports'
-paperurl: 'https://doi.org/10.1038/s41598-020-79033-3'
-=======
+
 permalink: https://doi.org/10.1016/j.cell.2020.05.035
 date: 2020-06-01
 venue: 'Cell'
 paperurl: 'https://doi.org/10.1016/j.cell.2020.05.035'
->>>>>>> Stashed changes
+
 
 ---
 
