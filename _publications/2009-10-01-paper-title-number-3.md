@@ -1,11 +1,12 @@
 ---
-title: "Genome-wide CRISPR screen identifies host dependency factors for influenza A virus infection."
+title: "Comprehensive characterisation of molecular host-pathogen interactions in influenza-A virus infected human macrophages."
 collection: publications
-permalink: https://www.nature.com/articles/s41467-019-13965-x
-date: 2020-01-01
-venue: 'Nature Communications'
-paperurl: 'https://www.nature.com/articles/s41467-019-13965-x'
+permalink: https://jvi.asm.org/content/94/10/e01720-19
+date: 2020-05-01
+venue: 'Journal of Virology'
+paperurl: 'https://jvi.asm.org/content/jvi/94/10/e01720-19.full.pdf'
 
 ---
-Host dependency factors that are required for influenza A virus infection may serve as therapeutic targets as the virus is less likely to bypass them under drug-mediated selection pressure. Previous attempts to identify host factors have produced largely divergent results, with few overlapping hits across different studies. Here, we perform a genome-wide CRISPR/Cas9 screen and devise a new approach, meta-analysis by information content (MAIC) to systematically combine our results with prior evidence for influenza host factors. 
+We were able to quantify overrepresentation of host RNA features among the sequences that were 'Cap-snatched' by IAV. We demonstrate biased snatching of numerous host RNAs, particularly small nuclear RNAs (snRNAs), and avoidance of host transcripts encoding host ribosomal proteins, which are required by IAV for replication. We then used a systems approach to describe the transcriptional landscape of the host response to IAV, observing many new features.
+You can see a summary of the paper [here](https://baillielab.net/capsnatching/) along with a brief overview of the [cap-snatching mechanism](https://baillielab.net/capsnatching/cs_intro/).
 
