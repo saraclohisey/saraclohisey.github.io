@@ -14,10 +14,10 @@ Sara joined the Baillie lab in 2014 as a postdoctoral research fellow. Previousl
 Her main interest is how cells of the immune system react to viral infections and how, in turn, the virus interacts with immune cells.  
 
 
-This host-pathogen interaction is integral to understanding why some people become very sick when they are infected with viruses, such as influenza and SARS-CoV-2.  
+Exploring the host-pathogen interaction is integral to understanding why some people become very sick when they are infected with viruses, such as influenza and SARS-CoV-2. 
 
 
-Sara has recently completed sampling on a study looking at influenza susceptibility in the Scottish population and is using sensitive techniques, such as Cap Analysis of Gene Expression (CAGE) and Whole Genome Sequencing, to investigate this on a molecular scale.  
+Sara has recently completed sampling on a study looking at influenza susceptibility in the Scottish population and is using sensitive techniques, such as Cap Analysis of Gene Expression (CAGE) and Whole Genome Sequencing, to investigate the interface between virus and host on a molecular scale.  
 
 
 Read about work of the [Baillie Lab](https://baillielab.net/)!  
