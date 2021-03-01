@@ -1,13 +1,11 @@
 ---
-title: "Genetic mechanisms of critical illness in Covid-19."
+title: "Host susceptibility to severe influenza A virus infection."
 collection: publications
-permalink: https://doi.org/10.1038/s41586-020-03065-y
-date: 2020-10-10
-venue: 'medRxiv'
-paperurl: 'https://doi.org/10.1038/s41586-020-03065-y'
+permalink: https://ccforum.biomedcentral.com/articles/10.1186/s13054-019-2566-7
+date: 2019-09-01
+venue: 'Critical Care'
+paperurl: 'https://doi.org/10.1186/s13054-019-2566-7'
 
 ---
-The subset of patients who develop critical illness in Covid-19 have extensive inflammation affecting the lungs and are strikingly different from other patients: immunosuppressive therapy benefits critically-ill patients, but may harm some non-critical cases.
-Since susceptibility to life-threatening infections and immune-mediated diseases are both strongly heritable traits, we reasoned that host genetic variation may identify mechanistic targets for therapeutic development in Covid-19.
 
-[Download paper here](https://doi.org/10.1038/s41586-020-03065-y)
+Wide variation in susceptibility is a general feature of human and animal populations exposed to any pathogen. Explaining the mechanisms of susceptibility may enable effective targeting of vaccine therapies, may reveal new therapeutic approaches, and, in theory, may contribute to future clinical risk prediction models. We explore this in our review.
