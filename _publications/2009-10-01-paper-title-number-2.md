@@ -2,8 +2,8 @@
 title: "Systematic review and meta-analysis identifies potential host therapeutic targets in COVID-19."
 collection: publications
 permalink: https://doi.org/10.1038/s41598-020-79033-3
-date: 2020-09-01
-venue: 'medRxiv'
+date: 2020-12-18
+venue: 'Scientific Reports'
 paperurl: 'https://doi.org/10.1038/s41598-020-79033-3'
 
 ---
