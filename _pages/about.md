@@ -21,3 +21,4 @@ Recently, we completed sampling on a study looking at influenza susceptibility i
 You can read about work of the [Baillie Lab](https://baillielab.net/)!  
 
 
+![Image of viruses](./images/virii.jpeg)
