@@ -21,5 +21,5 @@ I have recently completed sampling on a study looking at influenza susceptibilit
 
 You can read about work of the [Baillie Lab](https://baillielab.net/)!  
 
-I joined the Baillie lab in 2014 as a postdoctoral research fellow. Previously, I graduated with first class honours from Trinity College Dublin after which I completed a PhD studying determinants of cytoskeletal function in Drosophila at the [Wellcome Trust Centre for Cell Biology](https://ohkura.bio.ed.ac.uk/index.html).  
+I joined the Baillie lab in 2014 as a postdoctoral research fellow. Previously, I graduated from Trinity College Dublin after which I completed a PhD studying determinants of cytoskeletal function in Drosophila at the [Wellcome Trust Centre for Cell Biology](https://ohkura.bio.ed.ac.uk/index.html).  
 
