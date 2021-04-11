@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hello! 
+![Image of viruses](./images/virii.jpeg)
 
 I'm Sara, a Postdoctoral Research Fellow and Core Scientist in the Baillie Lab at the Roslin Institute, Edinburgh.
 
@@ -21,4 +20,3 @@ Recently, we completed sampling on a study looking at influenza susceptibility i
 You can read about work of the [Baillie Lab](https://baillielab.net/)!  
 
 
-![Image of viruses](./images/virii.jpeg)
