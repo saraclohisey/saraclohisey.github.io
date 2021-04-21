@@ -1,13 +1,13 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/    
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Transcriptomics"
-    url: /transcriptomics/    
+    url: /talks/  
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
