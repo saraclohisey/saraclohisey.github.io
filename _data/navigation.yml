@@ -3,7 +3,7 @@ main:
 #  - title: "Research"
 #    url: /research/    
 
-  - title: "Research Publications"
+  - title: "Research"
     url: /publications/
 
 #  - title: "Other Publications"
@@ -12,8 +12,8 @@ main:
   - title: "Talks"
     url: /talks/  
 
-  - title: "Opinions"
-    url: /posts/
+#  - title: "Opinions"
+#    url: /posts/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
