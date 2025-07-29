@@ -15,8 +15,8 @@ main:
 #  - title: "Opinions"
 #    url: /posts/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Engagement"
+    url: /engagement/
     
   - title: "CV"
     url: /cv/
