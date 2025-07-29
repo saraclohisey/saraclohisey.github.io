@@ -25,9 +25,16 @@ Genetics Society Magazine
 ======
 * I wrote a short [perspective](https://genetics.org.uk/wp-content/uploads/2020/07/Issue-83.pdf) while rolling out GenOMICC across the UK during the SARS-CoV-2 pandemic. What a time!
 
-Peer support
+Host Genomics: lessons for infectious disease
 ======
-* I'm an active Peer-supporter at Easter Bush
+* I contributed perspectives to this report from the [PHG Foundation](https://www.phgfoundation.org/wp-content/uploads/2024/12/Host-genomics-lessons-for-infectious-disease.pdf).
+
+Interviews
+======
+* [Roslin Institute interview](https://vet.ed.ac.uk/roslin/news-events/meet-our-scientists/dr-sara-clohisey-patient-genetics-acute-illnesses)
+* [Podcast](https://eusci.org.uk/wp-content/uploads/2020/10/S01E05-Transcript.pdf) with [Prof. Ed Hutchinson](https://www.gla.ac.uk/schools/infectionimmunity/staff/edwardhutchinson/) at CVR Glasgow
+
+
 
 
 
