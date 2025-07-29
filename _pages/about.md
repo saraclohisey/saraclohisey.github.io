@@ -23,7 +23,7 @@ Phenotyping: Develop and characterise a porcine model of BPD incorporating clini
 
 By applying functional genomics, I will link genetic variation to gene expression and phenotypic outcomes in a physiologically relevant system. The pig offers a unique opportunity to model both the timing and complexity of human lung development, enabling more direct translation of genomic findings into therapeutic targets.
 
-You can hear me talk about this [project] (https://media.ed.ac.uk/media/t/1_962wagnh)! 
+You can hear me talk about this [project](https://media.ed.ac.uk/media/t/1_962wagnh)! 
 
 
 
