@@ -15,13 +15,13 @@ Late gestation is a critical window for lung maturation, yet the transcriptional
 
 Using my skills and experience I want to take a multidisciplinary approach that combines:
 
-Genetics: Identify risk variants for BPD through large-scale human studies using the [GenOMICC](https://www.genomicc.org) platform.
+**Genetics**: Identify risk variants for BPD through large-scale human studies using the [GenOMICC](https://www.genomicc.org) platform.
 
-Transcriptomics: Map late gestation lung development at single-cell resolution using spatial and single-cell transcriptomics in the pig.
+**Transcriptomics**: Map late gestation lung development at single-cell resolution using spatial and single-cell transcriptomics in the pig.
 
-Phenotyping: Develop and characterise a porcine model of BPD incorporating clinical risk factors such as mechanical ventilation and intrauterine growth restriction (IUGR).
+**Phenotyping**: Develop and characterise a porcine model of BPD incorporating clinical risk factors such as mechanical ventilation and intrauterine growth restriction (IUGR).
 
-By applying functional genomics, I will link genetic variation to gene expression and phenotypic outcomes in a physiologically relevant system. The pig offers a unique opportunity to model both the timing and complexity of human lung development, enabling more direct translation of genomic findings into therapeutic targets.
+I will link genetic variation to gene expression and phenotypic outcomes in a physiologically relevant system. The pig offers a unique opportunity to model both the timing and complexity of human lung development, enabling more direct translation of genomic findings into therapeutic targets.
 
 You can hear me talk about this [project](https://media.ed.ac.uk/media/t/1_962wagnh)! 
 
