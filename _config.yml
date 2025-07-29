@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Dr. Sara Clohisey"
 title_separator          : "-"
 name                     : &name "Sara Clohisey"
-description              : &description "I R COOL"
+description              : &description " "
 url                      : https://saraclohisey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saraclohisey/saraclohisey.github.io"
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "dr_sara_c"
+  twitter          : #"dr_sara_c"
   vine             :
   weibo            :
   xing             :
