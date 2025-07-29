@@ -17,11 +17,20 @@ Key Publications
 
 Knowledge exchange
 ======
+* Provided expert insights for Host Genomics Lessons for Infectious Disease report by the PHG foundation (Turner H. et al Host genomics: lessons from infectious disease. PHG Foundation. 2024).
+* Patient Public Involvement during establishment of the NICU cohort for the GenOMICC study, funded by a CMVM Seed grant.
+* Lecturer for Animal Body Systems and Cases (BVMS08064) at The University of Edinburgh, specifically ‘The Mechanics of Ventilation’. 
 * Appeared in a radio interview on BBC Scotland to discuss the GenOMICC influenza project. This interview was accompanied by coverage of the project in major national newspapers including The Scotsman and The Times.
-* Met with sepsis survivors and charity board members in collaboration with FEAT Sepsis Research to discuss GenOMICC. This included giving tours of the labs at Roslin and presenting lab experiments to volunteers and survivors in layman’s terms to give them an understanding of the importance of genomics in medicine.
-* Social media management for GenOMICC. The Twitter account engages with individual team members at sites and also with participants in the study to communicate news, milestones and offer assistance. 
-* Microbiology Society Champion (2018-Present) boosting the image of the society locally at the Roslin Institute, brainstorming public engagement activities and attending conferences on behalf of the society.
-* Presenter at outreach events such as the Edinburgh International Science Festival 2018 and 2016, and the Royal Society Summer of Science Exhibition 2016 as part of the Flu Fighters exhibit. 
+* Met with sepsis survivors and charity board members in collaboration with FEAT Sepsis Research to discuss GenOMICC. This included giving tours of the labs at Roslin and presenting lab experiments to volunteers and survivors in layman’s terms to provide them withan understanding of the importance of genomics in medicine.
+
+
+Career Development and Training
+======
+
+*	Cruse Scotland Bereavement Support Training (2024).
+*	Accepted to, and attended, the UK Reproducibility Networks “Leadership in Academia” Workshop (2022).
+*	Received a Bursary to complete the Health in Data Science course offered by The University of Edinburgh (2021).
+*	Good Clinical Practice (2014 – present).
 
 
 Key Skills
