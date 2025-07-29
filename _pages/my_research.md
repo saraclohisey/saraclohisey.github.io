@@ -13,9 +13,9 @@ Unravelling Bronchopulmonary Dysplasia Through Multi-Omics Meta-Analysis
 
 You can see our previous MAIC analyses at the following links:
 
-* [Influenza A] (https://baillielab.net/maic/flu/)
-* [COVID-19] (https://baillielab.net/maic/covid19/)
-* [ARDS] (https://ardsmaic.site44.com/) (password protected until publication)!
+* [Influenza A](https://baillielab.net/maic/flu/)
+* [COVID-19](https://baillielab.net/maic/covid19/)
+* [ARDS](https://ardsmaic.site44.com/) (password protected until publication)!
 
 
 Understanding the molecular mechanisms that contribute to BPD could aid in risk prediction, targeted therapies, and understanding disease mechanisms. The heterogeneity of the disease has hampered efforts to identify reliable, consistent biomarkers. So far, though some candidates have been identified (e.g. SPOCK2, CRP), no gene has been significantly associated with the development of BPD via Genome-Wide Association Studies (GWAS) or exome sequencing.10–14 This is despite indications from twin studies of the heritability of BPD. Transcriptomic data have been used to identify four endotypes of BPD, distinguished by T helper cell and T cell signalling.  Together, these and other studies reflect an effort to incorporate insights from genome-scale research, complementing the longstanding emphasis on clinical studies in the field.
