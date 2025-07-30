@@ -13,7 +13,7 @@ You can read more about our work [here](https://baillielab.net/).
 
 I run a range of activities and am forging an independent research programme using genomics and genome editing to understand the mechanisms underlying Bronchopulmonary Dysplasia ([BPD](https://www.nhlbi.nih.gov/health/bronchopulmonary-dysplasia)), a devastating lung problem in preterm infants.
 
-Late gestation is a critical window for lung maturation, yet the transcriptional programs guiding this phase are poorly defined. Preterm birth interrupts these processes, resulting in immature lungs highly susceptible to injury. Existing rodent and in vitro models fail to replicate this crucial developmental stage, limiting both mechanistic insights and therapeutic discovery. As a Co-Investigator on the [GenOMICC study](https://www.genomicc.org) and Lead Researcher for the neonatal arm, I'm interested in how changes to DNA in can influence how sick a baby might become following preterm birth and ventilation. 
+Late gestation is a critical window for lung maturation, yet the transcriptional programs guiding this phase are poorly defined. Preterm birth interrupts these processes, resulting in immature lungs highly susceptible to injury. Existing rodent and in vitro models fail to replicate this crucial developmental stage, limiting both mechanistic insights and therapeutic discovery. As a Co-Investigator on the [GenOMICC study](https://www.genomicc.org) and Lead Researcher for the neonatal arm, I'm interested in how changes to DNA can influence how sick a baby might become following preterm birth and ventilation. 
 
 Using my skills and experience, I want to take a multidisciplinary approach that combines:
 
