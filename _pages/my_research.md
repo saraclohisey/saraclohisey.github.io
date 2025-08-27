@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "==="
+title: "Ongoing Research"
 permalink: /research/
 author_profile: true
 
